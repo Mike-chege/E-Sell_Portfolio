@@ -1,14 +1,25 @@
-## Web_Stack_Portfolio_Project(E-Sell_Portfolio)
-This is an e-commerce project created using [Next.js](https://nextjs.org/). You can see the demo [here](https:///).
+## :file_folder: Web_Stack_Portfolio_Project(E-Sell_Portfolio)
+This is an e-commerce web stack portfolio project for the final year at ALX SE. Created using [Next.js](https://nextjs.org/), [React], and [Typescript].
 
-## Technologies Used
-- React
-- Next.js
-- Sanity
-- Stripe
-## Features
-- Add products and banners with Sanity dashboard.
-- Add products to shopping cart.
-- Pay with Stripe.
+## :scroll: To run this code you need
+- React(Latest version)
+- Next.js(Latest version)
+- Typecsript(Latest version)
+- Sanity account
+- Stripe account(Test mode)
+## :scroll: The Features
+- Pay for products with stripe.
+- Use sanity dashboard to add banners and images.
+- Shopping carts.
 
+## :label: How to run this code
+- Copy the sample env content to .env(Make sure you have a stripe account)
+- Clone the repository
+- `git clone https://github.com//Mike-chege/E-SELL_Portfolio.git`
+- `cd E-SELL_Portfolio`
+- `npm install`
+- Then `npm run dev`
+- Open `http://localhost:3000` in your browser
+- 
+## :fountain_pen: Author
 [**Michael Chege*](https://github.com/Mike-chege)
