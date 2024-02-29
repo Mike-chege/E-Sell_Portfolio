@@ -1,5 +1,5 @@
 ## :file_folder: Web_Stack_Portfolio_Project(E-Sell_Portfolio)
-This is an e-commerce web stack portfolio project for the final year at ALX SE. Created using [Next.js](https://nextjs.org/), [React], and [Typescript].
+This is an e-commerce web stack portfolio project for the final year at ALX SE. Created using [Next.js](https://nextjs.org/), [React](https://react.dev/), and [Typescript] (https://typescriptlang.org/).
 
 ## :scroll: To run this code you need
 - React(Latest version)
@@ -22,4 +22,4 @@ This is an e-commerce web stack portfolio project for the final year at ALX SE. 
 - Open `http://localhost:3000` in your browser
 - 
 ## :fountain_pen: Author
-[**Michael Chege*](https://github.com/Mike-chege)
+[*Michael Chege*](https://github.com/Mike-chege)
