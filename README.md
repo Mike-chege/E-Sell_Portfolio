@@ -11,7 +11,12 @@ This is an e-commerce web stack portfolio project for the final year at ALX SE. 
 - Pay for products with stripe.
 - Use sanity dashboard to add banners and images.
 - Shopping carts.
-
+## :scroll: .env example
+```
+NEXT_PUBLIC_SANITY_TOKEN = 
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY = 
+NEXT_PUBLIC_STRIPE_SECRET_KEY = 
+```
 ## :label: How to run this code
 - Copy the sample env content to .env(Make sure you have a stripe account)
 - Clone the repository
@@ -20,6 +25,6 @@ This is an e-commerce web stack portfolio project for the final year at ALX SE. 
 - `npm install`
 - Then `npm run dev`
 - Open `http://localhost:3000` in your browser
-- 
+
 ## :fountain_pen: Author
 [*Michael Chege*](https://github.com/Mike-chege)
